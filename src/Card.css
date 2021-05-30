@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.container {
+   max-width:1000px;
+    
+}
+.align{
+    background-color: white;
+    display:inline-block;
+    padding: 36px 34px;
+    margin: 14px 11px;
+}
+.content{
+    width:150px;
+    font-size: smaller;
+    color:blue;
+}
+button{
+    color:blue;
+    border:2px solid blue;
+    border-radius: 6px;
+
+}
+button:hover {
+    background-color: rgb(9, 240, 201);
+}
